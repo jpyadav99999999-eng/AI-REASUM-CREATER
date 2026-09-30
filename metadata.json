@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI - AI Resume Builder & Professional Editor",
+  "description": "Create, edit, and optimize ATS-friendly resumes and cover letters in minutes with AI generation, live A4 preview, 10+ professional templates, and job matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
